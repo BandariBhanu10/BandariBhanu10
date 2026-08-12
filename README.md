@@ -1,6 +1,6 @@
 # Hi, I'm Bhanu Bandari 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;LLMs+%7C+RAG+%7C+LangChain;Python+%7C+FastAPI+%7C+Streamlit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=2563EB&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;LLMs+%7C+RAG+%7C+LangChain;Python+%7C+FastAPI+%7C+Streamlit)](https://git.io/typing-svg) 
 
 ## About Me
 
